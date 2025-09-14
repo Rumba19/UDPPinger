@@ -31,7 +31,7 @@ python UDPPingerClient.py
 ```
 
 ## Expected Output
-![output](image.png)
+![output](output.png)
 
 ## How It Works
 
