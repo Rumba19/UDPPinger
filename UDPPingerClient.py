@@ -1,4 +1,4 @@
-# UDPPingerClient.py
+
 import socket
 import time
 
